@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_ad8ab992_8aea_45f0_89cf_737cb4365473_Output_Payload = Array<{  firstName: String,   lastName: String,   country: String,   address: String,   id?: String,   postal: String,   creationDate?: String,   "type": String,   miles: Number,   _?: Any} {"label": "Account"}>
+

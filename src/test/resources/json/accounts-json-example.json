@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "firstName": "Max",
+    "lastName": "Mule",
+    "address": "404 Undiscovered St.. Melbourne VIC",
+    "postal": "3000",
+    "country": "Australia",
+    "miles": 600,
+    "creationDate": "2020-09-28T12:00:00.000Z",
+    "type": "personal"
+  },
+  {
+    "id": "2",
+    "firstName": "Morgan",
+    "lastName": "Mule",
+    "address": "401 Nope Rd.. Melbourne VIC",
+    "postal": "3000",
+    "country": "Australia",
+    "miles": 250,
+    "creationDate": "2020-09-28T12:00:00.000Z",
+    "type": "business"
+  }
+]
